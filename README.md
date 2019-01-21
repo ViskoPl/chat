@@ -1,2 +1,2 @@
 # chat
-a chat 
+## moj Jure nauci pisat web development 
